@@ -1,7 +1,7 @@
 name: "."
 title: "Finance internationale"
 description: |
-  Finance internationale
+  Cours de Finance internationale
 output_dir: "docs"
 navbar:
   right:

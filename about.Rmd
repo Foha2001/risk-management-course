@@ -1,7 +1,8 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  This website is constructed by Foued Hamouda.
+  Please visit: https://fouedhamouda.netlify.app/
 ---
 
 ```{r setup, include=FALSE}
