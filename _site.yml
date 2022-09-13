@@ -3,6 +3,7 @@ title: "Finance internationale"
 description: |
   Cours de Finance internationale
 output_dir: "docs"
+theme: mytheme.css
 navbar:
   right:
     - text: "Home"
