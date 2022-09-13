@@ -7,6 +7,16 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Plan"
+      href: plan.html
+    - text: "Lessons"
+      menu: 
+        - text: "Chapitre 1"
+          href: chapitre 1.html
+        - text: "Chapitre 2"
+          href: chapitre 2.html
+        - text: "Chapitre 3"
+          href: chapitre 3.html
     - text: "About"
       href: about.html
 output: distill::distill_article
