@@ -6,6 +6,8 @@ links:
     url: 'mailto:Foued.hamouda@isggb.u-gabes.tn target="_blank"' 
   - label: website
     url: 'https://fouedhamouda.netlify.app/ target="_blank"'
+  - label: Forum 
+    url: 'https://groups.google.com/g/isg-gabes?pli=1 target="_blank"'
 output:
   postcards::trestles
 site: distill::distill_website
@@ -13,7 +15,7 @@ site: distill::distill_website
  
 ## Bienvenue --- Welcome ! 
 
-Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous allez trouver l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
+Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
 
 
                                                                Foued Hamouda
