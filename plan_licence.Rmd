@@ -1,11 +1,13 @@
 ---
-title: "Plan du cours"
+title: "Plan du cours pour les 3ème finance"
+
 output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 # Chapitre 1 :
 Le système monétaire international (S.M.I) et notions fondamentales en finance internationale
 
@@ -34,13 +36,9 @@ Section 1 : Les cotations sur le marché des eurodevises
 Section 2 : Les mécanismes de formation des cours à terme  
 
 Section 3 : Les parités internationales
- 
-# Chapitre 4 : 
-Le risque de change et sa couverture 
 
-  Section 1 : Techniques de couverture faisant appel au marché spécialisé ( contrats « FUTURE ») 
-  
-  Section 2 : Techniques de couverture par les options 
+
+
 
 
 

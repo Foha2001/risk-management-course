@@ -9,7 +9,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Plan"
-      href: plan.html
+      menu: 
+        - text: "Plan licence"
+          href: plan_licence.html
+        - text: "Plan master"
+          href: plan_master.html
     - text: "Lessons"
       menu: 
         - text: "Chapitre 1"
