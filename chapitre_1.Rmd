@@ -1,4 +1,0 @@
----
-title: "chapitre 1"
-listing: section 
----

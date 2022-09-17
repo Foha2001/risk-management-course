@@ -14,14 +14,14 @@ navbar:
           href: plan_licence.html
         - text: "Plan master"
           href: plan_master.html
-    - text: "Lessons"
+    - text: "Lessons" 
       menu: 
+        - text: "Support de cours"
+          href: support_de_cours.html
         - text: "Chapitre 1"
-          href: chapitre_1.html
-        - text: "Chapitre 2"
-          href: chapitre_2.html
-        - text: "Chapitre 3"
-          href: chapitre_3.html
+          href: chapitre-1.html
+  
     - text: "About"
       href: about.html
+      
 output: distill::distill_article

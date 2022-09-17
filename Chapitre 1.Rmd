@@ -1,0 +1,18 @@
+---
+title: "Chapitre 1 "
+description: |
+  Vous trouverez ici l'essentiel du chapitre 1
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+
