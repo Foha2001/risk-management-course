@@ -16,3 +16,5 @@ site: distill::distill_website
 Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous allez trouver l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
 
 
+                                                               Foued Hamouda
+
