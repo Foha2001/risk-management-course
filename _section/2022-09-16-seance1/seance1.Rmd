@@ -6,5 +6,13 @@ output:
     self_contained: false
 ---
 
+Le TD 1  est disponible en format PDF.
+Veillez le télécharger  
 
+
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "TD 1 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
