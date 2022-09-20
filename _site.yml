@@ -1,7 +1,7 @@
 name: "."
-title: "Gestion de PF"
+title: "Finance internationale"
 description: |
-  Cours de Finance de marché
+  Cours de Finance de finance internationale
 output_dir: "docs"
 theme: mytheme.css
 navbar:
