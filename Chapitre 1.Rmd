@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+Vous trouverez ici l'essentiel du chapitre 1 
 
 
 

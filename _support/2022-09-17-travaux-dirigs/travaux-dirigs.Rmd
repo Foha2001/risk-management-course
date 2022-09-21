@@ -13,9 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 Le TD 1  est disponible en format PDF.
-Veillez le télécharger  
-
-
+Veillez le télécharger  ici 
 
 <div class="contributor_org">
 
@@ -23,4 +21,28 @@ Veillez le télécharger
 </div>
 
 
+Le TD 2  est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "Td 2 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+
+Le TD 3  est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "TD 3 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+Le TD 4  est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "td 4 finance internationale.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
