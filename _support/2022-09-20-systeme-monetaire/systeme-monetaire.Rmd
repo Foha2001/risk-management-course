@@ -1,5 +1,5 @@
 ---
-title: "Le Systeme Monétaire International"
+title: "Le Systeme Monétaire International" 
 date: 2022-09-20
 output:
   distill::distill_article:

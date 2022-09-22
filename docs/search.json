@@ -6,35 +6,35 @@
       "description": "This website is constructed by Foued Hamouda.\nPlease visit: https://fouedhamouda.netlify.app/",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-21T16:03:54+02:00"
+      "last_modified": "2022-09-22T19:00:09+01:00"
     },
     {
       "path": "index.html",
       "title": "Cours de Finance internationale",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Finance internationale\r\n          \r\n          \r\n          Home\r\n          \r\n          \r\n          Plan\r\n           \r\n          ▾\r\n          \r\n          \r\n          Plan licence\r\n          Plan master\r\n          \r\n          \r\n          \r\n          \r\n          Lessons\r\n           \r\n          ▾\r\n          \r\n          \r\n          Support de cours\r\n          Chapitre 1\r\n          \r\n          \r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Cours de Finance internationale\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                         Email\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        website\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Forum\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bienvenue — Welcome !\r\n            Ce site web est destiné à mes étudiants de L’ISG de\r\n            Gabès.Vous Trouverez l’essentiel des travaux dirigés et du\r\n            cours de finance internationale. Je reste à votre\r\n            disposition pour toute information complémentaire par mail\r\n            ou forum de discussion.\r\n                                                                       Foued Hamouda\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Cours de Finance internationale\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                       Email\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      website\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Forum\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bienvenue — Welcome !\r\n              Ce site web est destiné à mes étudiants de L’ISG de\r\n              Gabès.Vous Trouverez l’essentiel des travaux dirigés et du\r\n              cours de finance internationale. Je reste à votre\r\n              disposition pour toute information complémentaire par mail\r\n              ou forum de discussion.\r\n                                                                         Foued Hamouda\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2022-09-21T16:03:58+02:00"
+      "last_modified": "2022-09-22T19:00:10+01:00"
     },
     {
       "path": "plan_licence.html",
       "title": "Plan du cours pour les 3ème finance",
       "author": [],
       "contents": "\r\nChapitre 1 :\r\nLe système monétaire international (S.M.I) et notions fondamentales en finance internationale\r\nSection 1 : aperçu historique\r\nSection 2 : le fonctionnement de marché de change\r\nSection 3 : les participants sur le marché de change\r\nSection 4 : les opérations sur le marché de change\r\nSection 5 : le marché de change tunisien\r\nChapitre 2 :\r\nLes caractéristiques générales du marché de change\r\nSection 1 : le marché de change au comptant (SPOT)\r\nSection 2 : le marché de change à terme (FORWRD)\r\nChapitre 3 :\r\nLe marché des Eurodevises\r\nSection 1 : Les cotations sur le marché des eurodevises\r\nSection 2 : Les mécanismes de formation des cours à terme\r\nSection 3 : Les parités internationales\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-21T16:04:03+02:00"
+      "last_modified": "2022-09-22T19:00:12+01:00"
     },
     {
       "path": "plan_master.html",
       "title": "Plan du cours pour le master ingéniérie financière",
       "author": [],
       "contents": "\r\nChapitre 1 :\r\nRappel sur les caractéristiques générales du marché de change\r\nSection 1 : le marché de change au comptant (SPOT)\r\nSection 2 : le marché de change à terme (FORWARD)\r\nChapitre 2 :\r\nFonctionnement et cotation sur le marché des Eurodevises\r\nSection 1 : Les cotations sur le marché des eurodevises\r\nSection 2 : Les mécanismes de formation des cours à terme\r\nChapitre 3:\r\nLe risque de change et sa couverture\r\nSection 1 : Couverture par le marché des FUTURES\r\nSection 2 : Couverture par le marché des options\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-21T16:04:08+02:00"
+      "last_modified": "2022-09-22T19:00:13+01:00"
     },
     {
       "path": "support_de_cours.html",
       "title": "support de cours",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-21T16:04:12+02:00"
+      "last_modified": "2022-09-22T19:00:14+01:00"
     }
   ],
   "collections": ["support/support.json"]
