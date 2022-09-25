@@ -1,5 +1,5 @@
 ---
-title: "Cours de Finance internationale"
+title: "Cours de Risk management"
 image: "images/isg.jpg"
 links: 
   - label: '<i class="fas fa-envelope"></i> Email'
@@ -18,5 +18,5 @@ site: distill::distill_website
 Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
 
 
-                                                               Foued Hamouda
+                                                                           Foued Hamouda
 

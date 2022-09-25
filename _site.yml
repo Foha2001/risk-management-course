@@ -1,7 +1,7 @@
 name: "."
-title: "Finance internationale"
+title: "Risk management"
 description: |
-  Cours de Finance de finance internationale
+  Cours de risk management
 output_dir: "docs"
 theme: mytheme.css
 navbar:
@@ -10,17 +10,12 @@ navbar:
       href: index.html
     - text: "Plan"
       menu: 
-        - text: "Plan licence"
+        - text: "Plan du cours"
           href: plan_licence.html
-        - text: "Plan master"
-          href: plan_master.html
     - text: "Lessons" 
       menu: 
         - text: "Support de cours"
           href: support_de_cours.html
-        - text: "Chapitre 1"
-          href: chapitre-1.html
-  
     - text: "About"
       href: about.html
       
