@@ -1,6 +1,6 @@
 ---
 title: "Cours de Risk management"
-image: "images/isg.jpg"
+image: "images/risk.jpg"
 links: 
   - label: '<i class="fas fa-envelope"></i> Email'
     url: 'mailto:Foued.hamouda@isggb.u-gabes.tn target="_blank"' 
