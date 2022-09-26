@@ -1,9 +1,0 @@
----
-title: "Plan du cours pour les 3ème finance"
-
-output: distill::distill_article
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

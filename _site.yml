@@ -11,7 +11,7 @@ navbar:
     - text: "Plan"
       menu: 
         - text: "Plan du cours"
-          href: plan_licence.html
+          href: plan.html
     - text: "Lessons" 
       menu: 
         - text: "Support de cours"

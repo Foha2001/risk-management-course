@@ -1,0 +1,9 @@
+---
+title: "Plan du cours"
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
